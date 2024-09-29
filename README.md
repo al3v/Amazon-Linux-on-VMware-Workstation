@@ -16,10 +16,9 @@ This guide will walk you through the steps to install Amazon Linux on your local
 
 ### 1. Download and Install Amazon Linux on a VM
 
-1. Download the Amazon Linux 2 ISO for VMware from the [Amazon Linux 2 ISO for VMware](https://cdn.amazonlinux.com/os-images/2.0.20240916.0/vmware/). (Click on amzn2-vmware_esx-2.0.20240916.0-x86_64.xfs.gpt.ova)
+1. Download the Amazon Linux 2 Ova for VMware from the [Amazon Linux 2 Ova File for VMware](https://cdn.amazonlinux.com/os-images/2.0.20240916.0/vmware/). (Click on amzn2-vmware_esx-2.0.20240916.0-x86_64.xfs.gpt.ova)
 2. Open your VMware
-3. Create a new virtual machine and point it to the downloaded ISO as the installation media.
-4. Install Amazon Linux following the prompts.
+3. Click on Workstation --> File --> Open and point it to the downloaded ova file.
 
 ### 2. Create a Seed ISO to Change the Password
 
