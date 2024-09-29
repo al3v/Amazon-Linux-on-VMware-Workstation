@@ -21,7 +21,7 @@ This guide will walk you through the steps to install Amazon Linux on your local
 3. Click on Workstation --> File --> Open and point it to the downloaded ova file.
 
 ### 2. Create a Seed ISO to Change the Password
-
+I have done these steps on Ubuntu 22:
 #### a. Create `meta-data` and `user-data` Files:
 
 - **meta-data** file content (you can name the hostname as per your choice):
