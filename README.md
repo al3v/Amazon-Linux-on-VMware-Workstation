@@ -40,6 +40,8 @@ I have done these steps on Ubuntu 22:
 
 #### b. Generate the `seed.iso` File:
 
+We need the `seed.iso` because Amazon Linux is set up to use SSH keys for login by default, which means you can’t log in with a password right away. By adding a user-data file inside the seed.iso, we can change this during the boot process—letting us set a password and enable password-based login, making it easier to access the system without needing SSH keys.
+
 To generate the seed.iso file, run the following command:
 ```bash
 genisoimage -output seed.iso -volid cidata -joliet -rock user-data meta-data
