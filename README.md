@@ -3,7 +3,8 @@
 
 This guide will walk you through the steps to install Amazon Linux on your local machine using VMware or VirtualBox, and how to change the default password using a `seed.iso` file.
 
-<img src="https://github.com/user-attachments/assets/d19035f0-065e-41b7-a41c-786e4a7b31eb" alt="amazon linux 2023" width="500"/>
+<img src="https://github.com/user-attachments/assets/afab8a47-4ebb-449d-812f-6065c9074b18" alt="amazon linux 2023" width="500"/>
+
 
 
 ## Prerequisites
