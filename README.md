@@ -106,7 +106,8 @@ If you want to share a folder between your host machine and the virtual machine,
     ```
     - You should see the shared folder listed and can now use it to transfer files between your host and the VM.
 
-  ![image](https://github.com/user-attachments/assets/aa506f18-2736-40e9-b47d-e77e716e3efb)
+  ![image](https://github.com/user-attachments/assets/aa506f18-2736-40e9-b47d-e77e716e3efb)                    ![image](https://github.com/user-attachments/assets/fb9cc270-6f02-43e4-b954-631f8963998f)
+
 
 
 ---
